@@ -61,7 +61,7 @@ I have worked on several study projects, such as:
 
 * __Bachelor of Economics: Accountancy and audit.__ Saint Petersburg State University of Economics - Saint-Petersburg, Russia;
 * Course by Glo Academy "Web-Start";
-* Online courses on [Code Basics](code-basics.com) (HTML, CSS, JavaScript);
+* Online courses on [Code Basics](https://ru.code-basics.com/) (HTML, CSS, JavaScript);
 
 ### English
 
