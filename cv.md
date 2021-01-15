@@ -53,15 +53,18 @@ videoPlayerInit();
 
 I have worked on several study projects, such as:
 
-* https://maria-lem.github.io/repair-design/
-* https://maria-lem.github.io/YTunes/
-* https://fylo-landing-page-iota-two.vercel.app/
+* [Repair design](https://maria-lem.github.io/repair-design/)
+* [YTunes](https://maria-lem.github.io/YTunes/)
+* [Fylo landing page](https://fylo-landing-page-iota-two.vercel.app/)
+* [The Witcher landing page](https://maria-lem.github.io/the-Witcher-landing-page/)
+* [Delivery Food](https://maria-lem.github.io/delivery-food/)
 
 ### Education
 
 * __Bachelor of Economics: Accountancy and audit.__ Saint Petersburg State University of Economics - Saint-Petersburg, Russia;
 * Course by Glo Academy "Web-Start";
 * Online courses on [Code Basics](https://ru.code-basics.com/) (HTML, CSS, JavaScript);
+* Harvard University's online course CS50;
 
 ### English
 
