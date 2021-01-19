@@ -24,15 +24,9 @@ body {
 }
 
 .img-wrap {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  align-items: center;
+  justify-content: center;
   width: 250px;
   height: 250px;
   border-radius: 50%;
@@ -54,25 +48,19 @@ body {
 }
 
 .wrap {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .summary, .skills, .code-example, .experience, .education, .english {
-  -webkit-box-flex: 1;
-      -ms-flex: 1 1 44%;
-          flex: 1 1 44%;
+  flex: 1 1 44%;
   margin: 30px;
 }
 
 .link {
-  text-decoration: none;
+  text-underline-offset: 5px;
+  text-decoration: underline #f97b4d dashed;
   color: #442f28;
 }
 
@@ -81,7 +69,13 @@ body {
 }
 
 .list__item {
-  list-style-type: none;
+  list-style: none;
+}
+
+.list__item_arrow {
+  margin-left: -20px;
+  padding-left: 33px;
+  background: url(../img/arrow2.png) left center no-repeat;
 }
 
 .code {
